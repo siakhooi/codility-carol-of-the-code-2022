@@ -1,10 +1,10 @@
-# Codility Challenge: <ChallengeName>
+# Codility Challenge: Carol of the Code 2022
 
-## <Task Name>
+## PrettyTiling
 
-- Difficulty: <Difficulty>
-- <Description>
-- <challenge-url>
+- Difficulty: Medium
+- Given a sequence of squares, find the minimum number of rotations needed to obtain a pretty sequence.
+- <https://app.codility.com/programmers/challenges/carol_of_the_code2022/>
 - <task-url>
 
 ## Versions
@@ -14,11 +14,11 @@
   - `OK`: Correctness 100%, Performance <100%.
   - `Fail`: Correctness <100%, Performance <100%.
 - File naming convention
-  - Code `A`: `ChallengeNameA.java`
+  - Code `A`: `CarolOfTheCode2022A.java`
   - etc
 
 ### Gold Award
 
-| File | Complexity | Result | Report |
-| ---- | ---------- | ------ | ------ |
-| `A`  | `O( )`     | ` `    | [ ]()  |
+| File | Complexity | Result | Report                                                                            |
+| ---- | ---------- | ------ | --------------------------------------------------------------------------------- |
+| `A`  | `O(N)`     | `Good` | [8HNAAJ](https://app.codility.com/cert/view/cert8HNAAJ-RXX43XQKW2YDQZT4/details/) |
