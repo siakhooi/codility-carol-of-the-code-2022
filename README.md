@@ -22,3 +22,9 @@
 | File | Complexity | Result | Report                                                                            |
 | ---- | ---------- | ------ | --------------------------------------------------------------------------------- |
 | `A`  | `O(N)`     | `Good` | [8HNAAJ](https://app.codility.com/cert/view/cert8HNAAJ-RXX43XQKW2YDQZT4/details/) |
+
+### Unsubmitted
+
+| File | Complexity | Result | Report                                                                            |
+| ---- | ---------- | ------ | --------------------------------------------------------------------------------- |
+| `B`  |
