@@ -5,7 +5,7 @@
 - Difficulty: Medium
 - Given a sequence of squares, find the minimum number of rotations needed to obtain a pretty sequence.
 - <https://app.codility.com/programmers/challenges/carol_of_the_code2022/>
-- <task-url>
+- <https://app.codility.com/programmers/task/pretty_tiling/>
 
 ## Versions
 
@@ -23,8 +23,8 @@
 | ---- | ---------- | ------ | --------------------------------------------------------------------------------- |
 | `A`  | `O(N)`     | `Good` | [8HNAAJ](https://app.codility.com/cert/view/cert8HNAAJ-RXX43XQKW2YDQZT4/details/) |
 
-### Unsubmitted
+### Submitted after Challenge Ends
 
-| File | Complexity | Result | Report                                                                            |
-| ---- | ---------- | ------ | --------------------------------------------------------------------------------- |
-| `B`  |
+| File | Complexity | Result | Report                                                              |
+| ---- | ---------- | ------ | ------------------------------------------------------------------- |
+| `B`  | `O(N)`     | `Good` | [FTRZFP](https://app.codility.com/demo/results/trainingFTRZFP-7AG/) |
